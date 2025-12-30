@@ -250,7 +250,7 @@ p {
     padding: 120px 24px 80px;
     background:
         linear-gradient(135deg, rgba(13, 32, 48, 0.9) 0%, rgba(13, 32, 48, 0.7) 100%),
-        url('images/hero.jpg') center/cover no-repeat;
+        url('images/Hero.jpg') center/cover no-repeat;
 }
 
 .hero::before {
@@ -2345,4 +2345,5 @@ p {
     }
 
 }
+
 
